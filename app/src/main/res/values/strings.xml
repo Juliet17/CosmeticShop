@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CosmeticShop</string>
+    <string name="logo_description">Shop Logo</string>
+    <string name="makeup_image">makeup_image</string>
+
+    <string name="lipstick_title">Lipstick Chanel Rouge</string>
+    <string name="eyeshadows_title">Eyeshadow Mac</string>
+    <string name="powder_title">Powder Clinique</string>
+    <string name="lipstick_info">Точное нанесение в одно движение. Глубокий матовый оттенок. Стойкость до 24 часов. Не ощущается на губах.</string>
+
+    <string name="eyeshadows_info">Идеально подобранные оттенки теней, от приглушенных до насыщенных, позволяют подчеркнуть выразительность глаз,
+        создавая множество образов — от повседневных нюдовых до соблазнительных смоки.
+        Формула: Запеченные тени отдают больше пигмента для более яркого, насыщенного цвета.
+        Палитра включает тени трех разных текстур - матовые, атласные и блестящие.</string>
+    <string name="powder_info">Пудра с матирующим эффектом обладает стойким и мягким покрытием,
+        благодаря которому кожа выглядит безупречной, без жирного блеска 24 часа и при любых обстоятельствах.</string>
+
+    <string name="women_parfume_title">ESCADA Celebrate N.O.W.</string>
+    <string name="men_parfume_title">ANTONIO BANDERAS The Secret</string>
+
+    <string name="women_parfume_info">Позитивный настрой – осознанный выбор. Улыбнись миру – он улыбнется в ответ.
+        Пообещай себе принимать каждый момент жизни и живи настоящим.</string>
+    <string name="men_parfume_info">Antonio Banderas представляет новый аромат The Secret, который таит в себе секреты обольщения.
+        Основные ноты: Белый грейпфрут, Мята, Корица, Перец, Яблочный ликер, Бобы тонка, Ноты кожи.</string>
+
+    <string name="facecream_title">Крем для лица `A`PIEU`</string>
+    <string name="bodycream_title">Молочко для тела `MADES` `RECIPES` JUICY DELIGHT</string>
+
+    <string name="facecream_info">Экстракт зеленого чая является мощным антиоксидантом, оказывающим тонизирующее, антибактериальное и вяжущее действие, увеличивает эластичность, ускоряет регенерацию кожи. 
+        Экстракт коптиса японского увлажняет глубокие слои эпидермиса и предотвращает потерю влаги. Экстракт портулака обладает тонизирующим, ранозаживляющим, антитоксическим действием.</string>
+    <string name="bodycream_info">Молочко для тела `MADES` JUICY DELIGHT 100 мл - насыщенный и сочный аромат спелых тропических фруктов.
+        Шлейф аромата дополняют ноты жасмина и ванили.</string>
+
+
+    <string-array name="main_items">
+        <item>Макияж</item>
+        <item>Парфюмерия</item>
+        <item>Уход</item>
+    </string-array>
+
+
+</resources>
